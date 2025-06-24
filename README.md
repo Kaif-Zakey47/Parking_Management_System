@@ -201,7 +201,7 @@ curl http://localhost:808{1,2,3,4}/actuator/health
 
 <div align="center">
 
-[![Postman](https://img.shields.io/badge/Postman-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](./postman_collection.json)
+[![Postman](https://img.shields.io/badge/Postman-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](./Smart-Parking-Management-System-Microservice-Based-Application/postman_collection.json)
 
 </div>
 
