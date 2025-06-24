@@ -142,8 +142,8 @@ graph TB
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/Kaif_Zakey47/Smart_Parking_Management_System.git
-cd Smart_Parking_Management_System
+git clone https://github.com/Kaif-Zakey47/Parking_Management_System.git
+cd Parking_Management_System
 
 # 🔄 Start services in order
 ```
