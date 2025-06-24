@@ -365,13 +365,12 @@ We welcome contributions! Here's how to get started:
 
 <div align="center">
 
-**Built with ❤️ by [Kaif Zakey](https://github.com/Kaif_Zakey47)**
+**Built with ❤️ by [Kaif Zakey](https://github.com/Kaif-Zakey47)**
 
 🎓 **Academic Project** | ITS 1018 – Software Architectures & Design Pattern  
 🏫 **Institution**: IJSE - Graduate Diploma in Software Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kaif_Zakey47-black?style=flat-square&logo=github)](https://github.com/Kaif_Zakey47)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kaif-zakey)
 
 </div>
 
@@ -391,9 +390,6 @@ This project is developed as part of an academic assignment for the Graduate Dip
 
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
 
-[![Stars](https://img.shields.io/github/stars/Kaif_Zakey47/Smart_Parking_Management_System?style=social)](https://github.com/Kaif_Zakey47/Smart_Parking_Management_System/stargazers)
-[![Forks](https://img.shields.io/github/forks/Kaif_Zakey47/Smart_Parking_Management_System?style=social)](https://github.com/Kaif_Zakey47/Smart_Parking_Management_System/network/members)
 
 </div>
