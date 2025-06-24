@@ -370,7 +370,7 @@ We welcome contributions! Here's how to get started:
 🎓 **Academic Project** | ITS 1018 – Software Architectures & Design Pattern  
 🏫 **Institution**: IJSE - Graduate Diploma in Software Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kaif_Zakey47-black?style=flat-square&logo=github)](https://github.com/Kaif_Zakey47)
+[![GitHub](https://img.shields.io/badge/GitHub-Kaif-Zakey47-black?style=flat-square&logo=github)](https://github.com/Kaif-Zakey47)
 
 </div>
 
