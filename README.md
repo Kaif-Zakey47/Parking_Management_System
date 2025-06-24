@@ -11,7 +11,7 @@
 [![Microservices](https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=flat-square)](https://microservices.io/)
 [![License](https://img.shields.io/badge/License-Academic-yellow?style=flat-square)](LICENSE)
 
-[🚀 Quick Start](#-quick-start) • [📋 Features](#-features) • [🏗️ Architecture](#%EF%B8%8F-architecture) • [📚 API Docs](#-api-documentation) • [🔄 Contributing](#-contributing)
+[🚀 Quick Start](#-quick-start) • [📋 Features](#-features) • [🏗️ Architecture](#%EF%B8%8F-architecture) • [📚 Postman Collection](#-api-documentation).
 
 </div>
 
@@ -336,13 +336,6 @@ sequenceDiagram
 
 ---
 
-## 🔄 Contributing
-
-<div align="center">
-
-[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-
-</div>
 
 We welcome contributions! Here's how to get started:
 
